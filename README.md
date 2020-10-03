@@ -14,7 +14,7 @@
 <p>
   <img width="40px" align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" hspace="20"/>
   <img width="80px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" hspace="0" />
-  <img width="40px" align="center" src="https://cdn1.iconfinder.com/data/icons/system-black-octagons/512/java-512.png" hspace="24"/>
+  <img width="40px" align="center" src="https://cdn1.iconfinder.com/data/icons/system-black-octagons/512/java-512.png" hspace="28"/>
   <img width="40px" align="center" src="https://icon-library.com/images/mysql-icon/mysql-icon-18.jpg" hspace="12"/>
   <img width="100px" align="center" src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" hspace="14"/>
 </p>
