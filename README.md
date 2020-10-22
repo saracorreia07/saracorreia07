@@ -1,5 +1,4 @@
-### Hey, I'm Sara 🤟🏼
-
+### Hey, I'm Sara 🤟🏼🤟🏼
 
 <p align="center"><b><strong>Get in touch</strong>:</b></p>
 
