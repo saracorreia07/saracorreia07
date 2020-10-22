@@ -12,6 +12,8 @@
 Coming from a place of wanting to help people, I quickly realized that us, as human beings, are limited, opposed to the immensity of programming. That is why I now aim to create things that people can benefit from, and help the world become a nicer place to live, through code.
 </p>
 
+<p>A little more about me:</p>
+
 <p>What I'm focusing on:</p>
 <p>
   <img width="40px" align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" hspace="20"/>
