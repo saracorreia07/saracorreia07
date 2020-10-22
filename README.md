@@ -12,7 +12,13 @@
 Coming from a place of wanting to help people, I quickly realized that us, as human beings, are limited, opposed to the immensity of programming. That is why I now aim to create things that people can benefit from, and help the world become a nicer place to live, through code.
 </p>
 
-<p><strong>A little more about me:</strong></p>
+<p><strong>A few things that kind of define me:</strong></p>
+<ul>
+  <li>I lose all reasoning when presented with dogs.</li>
+  <li>I laugh a lot. Also, at my own jokes.</li>
+  <li>I thrive at live music gigs && on airplanes to anywhere.</li>
+  <li>I draw stuff. They say I'm creative.</li>
+  <li>My boring self is into minimalism and sustainability.</li>
 
 <p><strong>What I'm focusing on:</strong></p>
 <p>
