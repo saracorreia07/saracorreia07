@@ -1,7 +1,7 @@
 ### Hey, I'm Sara 🤟🏼
 
 
-<p align="center"><b>Get in touch:</b></p>
+<p align="center"><b><strong>Get in touch</strong>:</b></p>
 
 [<p align="center"><img width="20px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" hspace="10"/>](https://www.linkedin.com/in/sarascorreia/)
 [<img width="24px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg" hspace="10">](https://www.freecodecamp.org/saracorreia/)
@@ -14,7 +14,7 @@ Coming from a place of wanting to help people, I quickly realized that us, as hu
 
 <p><strong>A little more about me:</strong></p>
 
-<p>What I'm focusing on:</p>
+<p><strong>What I'm focusing on:</strong></p>
 <p>
   <img width="40px" align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" hspace="20"/>
   <img width="80px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" hspace="0" />
