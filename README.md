@@ -19,6 +19,7 @@ Coming from a place of wanting to help people, I quickly realized that us, as hu
   <li>I thrive at live music gigs && on airplanes to anywhere.</li>
   <li>I draw stuff. They say I'm creative.</li>
   <li>My boring self is into minimalism and sustainability.</li>
+ </ul>
 
 <p><strong>What I'm focusing on:</strong></p>
 <p>
