@@ -12,23 +12,20 @@ Coming from a place of wanting to help people, I realized that us, as human bein
 </p>
 
 <p><strong>A few things that kind of define me:</strong></p>
-<ul>
-  <li>🐶  I lose all reasoning when presented with dogs.</li>
-  <li>🤗  I laugh a lot. Also, at my own jokes.</li>
-  <li>🎧I  I thrive at live music gigs && on airplanes to anywhere.</li>
-  <li>🎨  I draw stuff. They say I'm creative.</li>
-  <li>🙏🏼  My serious self is into minimalism and sustainability.</li>
- </ul>
 
-<p></p>
+- 🐶  I lose all reasoning when presented with dogs.</li>
+- 🤗  I laugh a lot. Also, at my own jokes.</li>
+- 🎧I  I thrive at live music gigs && on airplanes to anywhere.</li>
+- 🎨  I draw stuff. They say I'm creative.</li>
+- 🙏🏼  My serious self is into minimalism and sustainability.</li>
+<br></br>
+
 <p><strong>Languages && Tools:</strong></p>
-<p>
   <img width="40px" align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" hspace="20"/>
   <img width="80px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" hspace="0" />
   <img width="40px" align="center" src="https://cdn1.iconfinder.com/data/icons/system-black-octagons/512/java-512.png" hspace="28"/>
   <img width="40px" align="center" src="https://icon-library.com/images/mysql-icon/mysql-icon-18.jpg" hspace="12"/>
   <img width="100px" align="center" src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" hspace="14"/>
-</p>
   
 
 
