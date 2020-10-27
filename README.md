@@ -12,6 +12,17 @@
 Coming from a place of wanting to help people, I realized that us, as human beings, are limited, opposed to the immensity of programming. That's why I now aim to create things that people can benefit from, and help the world become a nicer place to live, through code.
 </p>
 <br>
+
+<p><strong>Languages && Tools:</strong></p>
+<p>
+  <img width="40px" align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" hspace="20"/>
+  <img width="80px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" hspace="0" />
+  <img width="40px" align="center" src="https://cdn1.iconfinder.com/data/icons/system-black-octagons/512/java-512.png" hspace="28"/>
+  <img width="40px" align="center" src="https://icon-library.com/images/mysql-icon/mysql-icon-18.jpg" hspace="12"/>
+  <img width="100px" align="center" src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" hspace="14"/>
+</p>
+<br>
+
 <p><strong>A few things that kind of define me:</strong></p>
 
 - I lose all reasoning when presented with dogs 🐶 
@@ -21,15 +32,8 @@ Coming from a place of wanting to help people, I realized that us, as human bein
 - My serious self is into minimalism and sustainability 🙏🏼
 <br>
 
-<p><strong>Languages && Tools:</strong></p>
-<p>
-  <img width="40px" align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" hspace="20"/>
-  <img width="80px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" hspace="0" />
-  <img width="40px" align="center" src="https://cdn1.iconfinder.com/data/icons/system-black-octagons/512/java-512.png" hspace="28"/>
-  <img width="40px" align="center" src="https://icon-library.com/images/mysql-icon/mysql-icon-18.jpg" hspace="12"/>
-  <img width="100px" align="center" src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" hspace="14"/>
-</p>  
-<br>
+
+
 
 
 
