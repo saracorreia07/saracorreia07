@@ -13,11 +13,11 @@ Coming from a place of wanting to help people, I realized that us, as human bein
 
 <p><strong>A few things that kind of define me:</strong></p>
 <ul>
-  <li>I lose all reasoning when presented with dogs.</li>
-  <li>I laugh a lot. Also, at my own jokes.</li>
-  <li>I thrive at live music gigs && on airplanes to anywhere.</li>
-  <li>I draw stuff. They say I'm creative.</li>
-  <li>My boring self is into minimalism and sustainability.</li>
+  <li>🐶 I lose all reasoning when presented with dogs.</li>
+  <li>🤗 I laugh a lot. Also, at my own jokes.</li>
+  <li>🎧I I thrive at live music gigs && on airplanes to anywhere.</li>
+  <li>🎨 I draw stuff. They say I'm creative.</li>
+  <li>🙏🏼 serious self is into minimalism and sustainability.</li>
  </ul>
 
 <p><strong>What I'm focusing on:</strong></p>
