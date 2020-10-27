@@ -14,11 +14,11 @@ Coming from a place of wanting to help people, I realized that us, as human bein
 <br>
 <p><strong>A few things that kind of define me:</strong></p>
 
-- 🐶  I lose all reasoning when presented with dogs.
-- 🤗 I laugh a lot. Also, at my own jokes.
-- 🎧I I thrive at live music gigs && on airplanes to anywhere.
-- 🎨 I draw stuff. They say I'm creative.
-- 🙏🏼 My serious self is into minimalism and sustainability.
+- I lose all reasoning when presented with dogs 🐶 
+- I laugh a lot. Also, at my own jokes 🤗
+- I thrive at live music gigs && on airplanes to anywhere 🎧I
+- I draw stuff. They say I'm creative 🎨
+- My serious self is into minimalism and sustainability 🙏🏼
 <br>
 
 <p><strong>Languages && Tools:</strong></p>
