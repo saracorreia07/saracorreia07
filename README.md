@@ -13,14 +13,15 @@ Coming from a place of wanting to help people, I realized that us, as human bein
 
 <p><strong>A few things that kind of define me:</strong></p>
 <ul>
-  <li>🐶 I lose all reasoning when presented with dogs.</li>
-  <li>🤗 I laugh a lot. Also, at my own jokes.</li>
-  <li>🎧I I thrive at live music gigs && on airplanes to anywhere.</li>
-  <li>🎨 I draw stuff. They say I'm creative.</li>
-  <li>🙏🏼 serious self is into minimalism and sustainability.</li>
+  <li>🐶  I lose all reasoning when presented with dogs.</li>
+  <li>🤗  I laugh a lot. Also, at my own jokes.</li>
+  <li>🎧I  I thrive at live music gigs && on airplanes to anywhere.</li>
+  <li>🎨  I draw stuff. They say I'm creative.</li>
+  <li>🙏🏼  My serious self is into minimalism and sustainability.</li>
  </ul>
 
-<p><strong>What I'm focusing on:</strong></p>
+<p></p>
+<p><strong>Languages && Tools:</strong></p>
 <p>
   <img width="40px" align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" hspace="20"/>
   <img width="80px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" hspace="0" />
