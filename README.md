@@ -9,8 +9,7 @@
 [<img width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" hspace="10">](mailto:saracorreia.sc07@gmail.com)
 [<img width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" hspace="10"></p>](https://www.instagram.com/saracorreia._/)
 
-<p align="center">I'm a Software Developer on the rise, from Portugal, living in Oporto and currently looking for an opportunity to officially start my tech career. I completed an intensive Programming Bootcamp, and I've spent many hours self-learning, so I am now more than ready to embrace a new challenge. 
-Coming from a place of wanting to help people, I realized that us, as human beings, are limited, opposed to the immensity of programming. That's why I now aim to create things that people can benefit from, and help the world become a nicer place to live, through code.
+<p align="center">I'm a Software Developer on the rise, from Portugal, living in Oporto. Coming from a place of wanting to help people, I realized that us, as human beings, are limited, opposed to the immensity of programming. That's why I now aim to create things that people can benefit from, and help the world become a nicer place to live, through code.
 </p>
 <br>
 
