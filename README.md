@@ -1,4 +1,4 @@
-### Hey, I'm Sara 🤟🏼🤟🏼
+### Hey there, I'm Sara 🤟🏼🤟🏼
 
 <br></br>
 <p align="center"><b><strong>Get in touch</strong>:</b></p>
@@ -8,7 +8,9 @@
 [<img width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" hspace="10">](mailto:saracorreia.sc07@gmail.com)
 [<img width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" hspace="10"></p>](https://www.instagram.com/saracorreia._/)
 
-<p align="center">I'm a Software Developer on the rise, from Portugal, living in Oporto. Coming from a place of wanting to help people, I realized that us, as human beings, are limited, opposed to the immensity of programming. That's why I now aim to create things that people can benefit from, and help the world become a nicer place to live, through code.
+<p align="center">I've been lucky to explore many fields of study and have different experiences that led me to what ultimately excites me: projects that make people happy.
+I do my best to view things through other's lenses, believing art and technology can convey acceptance and understanding, the path to inclusive communities.
+In the past few years, I've found myself learning and working with human behaviour, software development, UX and visual design, in which I've been particularly interested.
 </p>
 <br>
 
