@@ -5,7 +5,6 @@
 
 [<p align="center"><img width="20px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" hspace="10"/>](https://www.linkedin.com/in/sarascorreia/)
 [<img width="24px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg" hspace="10">](https://www.freecodecamp.org/saracorreia07)
-[<img width ="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" hspace="10">](https://www.hackerrank.com/saracorreia07)
 [<img width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" hspace="10">](mailto:saracorreia.sc07@gmail.com)
 [<img width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" hspace="10"></p>](https://www.instagram.com/saracorreia._/)
 
