@@ -18,7 +18,7 @@ In the past few years, I've found myself learning and working with human behavio
 <p>
   <img width="40px" align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" hspace="20"/>
   <img width="80px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" hspace="0" />
-  <img width="40px" align="center" src="https://icon-library.com/images/html5-icon-png/html5-icon-png-5.jpg" hspace="12"/>
+  <img width="60px" align="center" src="https://icon-library.com/images/html5-icon-png/html5-icon-png-5.jpg" hspace="14"/>
   <img width="40px" align="center" src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" hspace="14"/>
   <img width="40px" align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" hspace="14"/>
   <img width="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" hspace="28"/>
