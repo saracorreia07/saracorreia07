@@ -20,7 +20,8 @@ In the past few years, I've found myself learning and working with human behavio
   <img width="80px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" hspace="0" />
   <img width="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" hspace="28"/>
   <img width="40px" align="center" src="https://icon-library.com/images/html5-icon-png/html5-icon-png-5.jpg" hspace="12"/>
-  <img width="100px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" hspace="14"/>
+  <img width="40px" align="center" src="https://https://cdn.icon-icons.com/icons2/2108/PNG/512/npm_icon_130871.png" hspace="14"/>
+  <img width="40px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" hspace="14"/>
 </p>
 <br>
 
